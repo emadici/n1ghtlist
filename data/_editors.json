@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "n1ghtshade",
+        "link": "https://www.youtube.com/@n1ghtshadeee"
     },
     {
         "role": "admin",
         "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.yomama.com/"
     },
     {
         "role": "helper",
         "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.yomama.com/"
     },
     {
         "role": "trial",
         "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.yomama.com/"
     },
     {
         "role": "dev",
         "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.yomama.com/"
     }
 ]
